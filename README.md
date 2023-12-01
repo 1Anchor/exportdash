@@ -1,2 +1,2 @@
-# exportdash
-Script to export all dashboard on Grafana
+# Exportdash
+Script to export all dashboards on Grafana to local folder ./dashboards
