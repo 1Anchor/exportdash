@@ -3,7 +3,7 @@ import requests
 import json
 
 GRAFANA_API_TOKEN = "YOUR_API"
-GRAFANA_URL = "YOUR_GRAFA_URL"
+GRAFANA_URL = "YOUR_GRAFANA_URL"
 
 def get_dashboard_uids():
     headers = {
